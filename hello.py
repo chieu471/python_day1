@@ -1,1 +1,1 @@
-print("Hello, Github! Ny first Python Project")
+print("Hello, Github! My first Python Project")
